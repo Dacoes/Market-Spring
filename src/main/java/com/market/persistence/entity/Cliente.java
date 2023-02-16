@@ -12,7 +12,7 @@ import java.util.List;
 @Setter
 public class Cliente {
     @Id
-    private Integer id;
+    private String id;
     private String nombre;
     private String apellidos;
 
